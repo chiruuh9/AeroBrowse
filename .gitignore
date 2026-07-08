@@ -1,0 +1,15 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/*.json
+backend/.env
+backend/verify_agent.py
+
+# Node.js
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# System
+.DS_Store
+Thumbs.db
